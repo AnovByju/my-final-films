@@ -9,7 +9,7 @@ import {
 const MOVIES = [
   { id:1, title:"Inception", year:2010, lb:4.2, genres:["Sci-Fi","Action"], lang:"English",
     dir:"Christopher Nolan", runtime:"2h 28m", bg:"#0e1530",
-    desc:"A thief who steals corporate secrets through dream-sharing tech is given the impossible task of planting an idea into a CEO's mind.",
+    desc:"A thief who steals corporate secrets through dream-sharing tech is given the impossible task of planting an idea into a CEO's mind. wow!",
     poster:"https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
     comments:[
       {u:"cinema_club",av:"CC",t:"Mind-bending masterpiece. That totem spin lives rent-free in my head.",lk:4231},
